@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sysauto_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
     <sysauto_report action="INSERT_OR_UPDATE">
         <active>true</active>
         <address_list/>
@@ -17,7 +16,7 @@
         <report display_value="NeedIt Requests by Type">7eced24a4f621300874e8020a310c7d5</report>
         <report_body><![CDATA[<p>Attached please find the daily NeedIt Requests by type report</p>]]></report_body>
         <report_title>Daily NeedIt Requests by Type report</report_title>
-        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as display_value="Atul Arora">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
